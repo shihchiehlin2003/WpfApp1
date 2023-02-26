@@ -18,6 +18,7 @@ namespace WpfApp1
     /// <summary>
     /// MainWindow.xaml 的互動邏輯
     /// </summary>
+    /// haha
     public partial class MainWindow : Window
     {
         public MainWindow()
